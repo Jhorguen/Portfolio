@@ -7,7 +7,7 @@
 
 - ✉️ Email: jhorguen123@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/jhorguen](https://www.linkedin.com/in/jhorguen-vargas-moreno-b94838254/)  
-- 🐙 GitHub: [github.com/jhorguen](https://github.com/jhorguen) *(si ese será tu nombre de usuario)*
+- 🐙 GitHub: [github.com/jhorguen](https://github.com/jhorguen) 
 
 ---
 
